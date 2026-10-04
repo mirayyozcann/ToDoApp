@@ -18,7 +18,7 @@ class _QuoteCardWidgetState extends State<QuoteCardWidget> {
   static String? _cachedLangCode;
 
   String _getRandomQuote(String langCode) {
-    // Dile göre söz listeleri
+  
     final List<String> quotes = langCode == 'tr' ? [
       "Bugün küçük bir adım, yarın büyük bir başarıdır.",
       "Zaman en değerli hazinedir, onu doğru yönet.",
@@ -40,7 +40,6 @@ class _QuoteCardWidgetState extends State<QuoteCardWidget> {
     final theme = Provider.of<ThemeNotifier>(context);
     final lang = Provider.of<LanguageNotifier>(context);
 
-    // Dil değiştiğinde veya ilk açılışta o dile uygun sözü belirliyoruz
     final currentLangCode = lang.currentLocale.languageCode;
     if (_cachedQuote == null || _cachedLangCode != currentLangCode) {
       _cachedLangCode = currentLangCode;
