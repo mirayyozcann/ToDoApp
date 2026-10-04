@@ -1,7 +1,7 @@
 <div align="center">
 
-# 🚀 Full-Stack To-Do & Görev Yönetim Ekosistemi
-### Modern, Güvenli, Ölçeklenebilir, Çift Dil (TR/EN) ve İstatistik Destekli Platform
+# 🚀 Full-Stack To-Do & Task Management Ecosystem
+### Modern, Secure, Scalable, Dual-Language (TR/EN) & Analytics-Powered Platform
 
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter" />
@@ -11,38 +11,38 @@
   <img src="https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge" alt="License" />
 </p>
 
-*Günlük iş akışınızı optimize etmek, görevlerinizi yüksek performansla yönetmek, Türkçe/İngilizce dil seçenekleriyle kesintisiz bir deneyim yaşamak, her açılışta ilham almak ve görev istatistiklerini takip ederek verimliliğinizi artırmak için geliştirilmiş yeni nesil full-stack uygulama.*
+*A next-generation full-stack application designed to optimize daily workflows, manage tasks efficiently with built-in Turkish/English support, track productivity analytics, and deliver daily motivation on launch.*
 
 </div>
 
 ---
 
-## 🌟 Öne Çıkan Özellikler
+## 🌟 Key Features
 
-* **⚡ Akıcı ve Modern Arayüz:** Flutter altyapısı sayesinde her platformda kusursuz ve hızlı kullanıcı deneyimi.
-* **🇹🇷/🇬🇧 Çift Dil Desteği (Türkçe & İngilizce):** Kullanıcıların tercihlerine göre Türkçe ve İngilizce dil seçenekleri arasında anında geçiş yapabilmesini sağlayan esnek altyapı.
-* **📊 Detaylı İstatistik Paneli:** Kullanıcının tamamlanan, bekleyen veya toplam görev durumlarını görselleştirerek analiz etmesini sağlayan istatistik sistemi.
-* **💡 Dinamik Motivasyon Sistemi:** Uygulama her açıldığında kullanıcılara seçilen dile uygun ilham verici ve motive edici cümleler sunan keyifli bir kullanıcı deneyimi detayı.
-* **🛡️ Güçlü ve Güvenli Backend:** .NET 8 Web API ile geliştirilmiş, yüksek performanslı ve güvenli RESTful servisler.
-* **🐘 Güvenilir Veri Saklama:** PostgreSQL veritabanı ve DataGrip ile profesyonel veri yönetimi ve sorgu optimizasyonu.
-* **🔒 Çevre İzoleli Güvenlik:** Hassas veritabanı bağlantı bilgileri kaynak kodundan tamamen izole edilerek koruma altına alınmıştır.
+* **⚡ Fluid & Modern UI:** Built with Flutter for a smooth, high-performance cross-platform user experience.
+* **🇹🇷/🇬🇧 Dual-Language Support (TR/EN):** Fully localized interface allowing users to seamlessly switch between Turkish and English.
+* **📊 Advanced Analytics Panel:** A dedicated statistics module that visualizes completed, pending, and overall task metrics to track productivity.
+* **💡 Dynamic Motivation System:** A delightful UX feature that greets users with inspirational quotes matching their selected language every time the app opens.
+* **🛡️️ Robust Backend:** High-performance and secure RESTful APIs powered by .NET 8 Web API.
+* **🐘 Reliable Data Storage:** Efficient relational data management using PostgreSQL and DataGrip.
+* **🔒 Environment Security:** Sensitive database connection strings and credentials are completely isolated from source code.
 
 ---
 
-## 🛠️ Kullanılan Teknolojiler ve Mimariler
+## 🛠️ Tech Stack & Architecture
 
-| Katman | Teknoloji / Araç | Amaç |
+| Layer | Technology / Tool | Purpose |
 | :--- | :--- | :--- |
-| **Frontend** | Flutter & Dart | Çapraz platform istemci uygulaması, lokalizasyon, istatistik ekranları ve motivasyon akışı |
-| **Backend** | .NET 8, C#, Entity Framework Core | RESTful API servisleri, veri işleme ve iş mantığı (Business Logic) |
-| **Database & Tool** | PostgreSQL & DataGrip | İlişkisel veritabanı yönetimi ve veritabanı aracı |
-| **Sürüm Kontrolü** | Git & GitHub | Proje versiyonlama ve kaynak kodu yönetimi |
+| **Frontend** | Flutter & Dart | Cross-platform client application, localization, analytics screens, and motivation flow |
+| **Backend** | .NET 8, C#, Entity Framework Core | RESTful API services, data processing & Business Logic |
+| **Database & Tool** | PostgreSQL & DataGrip | Relational database management & query optimization |
+| **Version Control** | Git & GitHub | Source code management and repository hosting |
 
 ---
 
-## 🏗️ Proje Mimarisi
+## 🏗️ Project Architecture
 
 ```text
 TodoApp/
-├── frontend/       # Flutter istemci kodları (Arayüz, TR/EN dil dosyaları, istatistik modülü, motivasyon servisi, state yönetimi)
-└── backend/        # .NET 8 Web API, katmanlı mimari ve veritabanı bağlantıları
+├── frontend/       # Flutter client codes (UI, TR/EN localization files, analytics module, motivation service, state management)
+└── backend/        # .NET 8 Web API, layered architecture & database connections
