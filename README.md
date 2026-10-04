@@ -40,7 +40,7 @@
 
 ---
 
-## 🏗️ Proje Mimarisi ve Kurulum Rehberi
+## 🏗️ Proje Mimarisi ve Kurulum
 
 ```text
 TodoApp/
