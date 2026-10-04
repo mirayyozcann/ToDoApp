@@ -23,7 +23,7 @@
 * **🇹🇷/🇬🇧 Çift Dil Desteği (TR/EN):** Kullanıcıların Türkçe ve İngilizce arasında sorunsuz geçiş yapmasını sağlayan tam lokalize arayüz.
 * **📊 Gelişmiş İstatistik Paneli:** Üretkenliği takip etmek için tamamlanan, bekleyen ve genel görev metriklerini görselleştiren özel bir istatistik modülü.
 * **💡 Dinamik Motivasyon Sistemi:** Kullanıcıları uygulama her açıldığında seçtikleri dile uygun ilham verici sözlerle karşılayan keyifli bir UX özelliği.
-* **🎨 UI/UX Tasarım ve Prootipleme:** Projenin arayüz akışı ve tasarımı, kodlama aşamasına geçilmeden önce kullanıcı odaklı bir deneyim sunması için **Google Stitch** ile prototiplenmiştir.
+* **🎨 UI/UX Tasarımı ve Modellenmesi:** Projenin arayüz akışı ve tasarımı, kodlama aşamasına geçilmeden önce kullanıcı odaklı bir deneyim sunması amacıyla **Google Stitch** ile prototiplenmiştir.
 * **🛡️ Güçlü Backend:** .NET 8 Web API tarafından desteklenen yüksek performanslı ve güvenli RESTful servisler.
 * **🐘 Güvenilir Veri Saklama:** PostgreSQL ve DataGrip kullanılarak gerçekleştirilen verimli ilişkisel veri yönetimi.
 * **🔒 Çevre Güvenliği:** Hassas veritabanı bağlantı dizeleri ve kimlik bilgileri kaynak kodundan tamamen izole edilmiştir.
@@ -34,7 +34,7 @@
 
 | Katman | Teknoloji / Araç | Amaç |
 | :--- | :--- | :--- |
-| **Frontend** | Flutter, Dart & Google Stitch | Çapraz platform istemci uygulaması, lokalizasyon, istatistikler, motivasyon akışı ve UI/UX prototipleme |
+| **Frontend** | Flutter, Dart & Google Stitch | Çapraz platform istemci uygulaması, lokalizasyon, istatistikler, motivasyon akışı ve görsel tasarım |
 | **Backend** | .NET 8, C#, Entity Framework Core | RESTful API servisleri, veri işleme ve iş mantığı |
 | **Veritabanı & Araç** | PostgreSQL & DataGrip | İlişkisel veritabanı yönetimi ve sorgu optimizasyonu |
 | **Sürüm Kontrolü** | Git & GitHub | Kaynak kodu yönetimi ve depo barındırma |
