@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🚀 Full-Stack To-Do & Görev Yönetim Ekosistemi
-### Modern, Güvenli, Ölçeklenebilir ve Çok Dil Desteğine Sahip Görev Yönetim Platformu
+### Modern, Güvenli, Ölçeklenebilir ve Çift Dil (TR/EN) Desteğine Sahip Platform
 
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter" />
@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge" alt="License" />
 </p>
 
-*Günlük iş akışınızı optimize etmek, görevlerinizi yüksek performansla yönetmek ve kesintisiz bir deneyim sunmak için geliştirilmiş yeni nesil full-stack uygulama.*
+*Günlük iş akışınızı optimize etmek, görevlerinizi yüksek performansla yönetmek ve Türkçe/İngilizce dil seçenekleriyle kesintisiz bir deneyim sunmak için geliştirilmiş yeni nesil full-stack uygulama.*
 
 </div>
 
@@ -20,7 +20,7 @@
 ## 🌟 Öne Çıkan Özellikler
 
 * **⚡ Akıcı ve Modern Arayüz:** Flutter altyapısı sayesinde her platformda kusursuz ve hızlı kullanıcı deneyimi.
-* **🌐 Çoklu Dil Desteği (Localization):** Farklı dil seçenekleri arasında akıcı geçiş imkanı sunan kullanıcı dostu arayüz.
+* **🇹🇷/🇬🇧 Çift Dil Desteği (Türkçe & İngilizce):** Kullanıcıların tercihlerine göre Türkçe ve İngilizce dil seçenekleri arasında anında geçiş yapabilmesini sağlayan esnek altyapı.
 * **🛡️ Güçlü ve Güvenli Backend:** .NET 8 Web API ile geliştirilmiş, yüksek performanslı ve güvenli RESTful servisler.
 * **🐘 Güvenilir Veri Saklama:** PostgreSQL veritabanı ve DataGrip ile profesyonel veri yönetimi ve sorgu optimizasyonu.
 * **🔒 Çevre İzoleli Güvenlik:** Hassas veritabanı bağlantı bilgileri kaynak kodundan tamamen izole edilerek koruma altına alınmıştır.
@@ -31,7 +31,7 @@
 
 | Katman | Teknoloji / Araç | Amaç |
 | :--- | :--- | :--- |
-| **Frontend** | Flutter & Dart | Çapraz platform istemci uygulaması ve dil desteği |
+| **Frontend** | Flutter & Dart | Çapraz platform istemci uygulaması ve Localization (TR/EN) |
 | **Backend** | .NET 8, C#, Entity Framework Core | RESTful API servisleri ve iş mantığı (Business Logic) |
 | **Database & Tool** | PostgreSQL & DataGrip | İlişkisel veritabanı yönetimi ve veritabanı aracı |
 | **Sürüm Kontrolü** | Git & GitHub | Proje versiyonlama ve kaynak kodu yönetimi |
@@ -42,5 +42,5 @@
 
 ```text
 TodoApp/
-├── frontend/       # Flutter istemci kodları (Arayüz, lokalizasyon, state yönetimi)
+├── frontend/       # Flutter istemci kodları (Arayüz, TR/EN dil dosyaları, state yönetimi)
 └── backend/        # .NET 8 Web API, katmanlı mimari ve veritabanı bağlantıları
