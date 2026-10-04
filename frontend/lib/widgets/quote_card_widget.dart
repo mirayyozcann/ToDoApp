@@ -13,7 +13,6 @@ class QuoteCardWidget extends StatefulWidget {
 }
 
 class _QuoteCardWidgetState extends State<QuoteCardWidget> {
-  // Seçilen dil ve o dildeki önbelleklenmiş sözü tutmak için
   static String? _cachedQuote;
   static String? _cachedLangCode;
 
