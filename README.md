@@ -47,5 +47,5 @@ TodoApp/
 ├── frontend/  # Flutter client codes (Interface, TR/EN localization files, statistics module, motivation service, state management)
 │   └── Run: cd frontend && flutter pub get && flutter run
 │
-└── backend/    # .NET 8 Web API, layered architecture, and database contexts
+└── backend/   # .NET 8 Web API, layered architecture, and database contexts
     └── Run: cd backend && dotnet ef database update && dotnet run
