@@ -1,44 +1,25 @@
-<div align="center">
+# 📌 To-Do App
 
-# 🚀 Gelişmiş Görev Yöneticisi Uygulaması (To-Do App)
-### Flutter & .NET 8 Gücüyle Geliştirilmiş Full-Stack Görev Yönetim Ekosistemi
+Flutter ve .NET 8 kullanılarak geliştirilmiş, güvenli ve modern bir full-stack görev yönetim uygulamasıdır.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/.NET_8-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET 8" />
-  <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge" alt="License" />
-</p>
+🚀 **Özellikler**
 
-*Maksimum üretkenlik için tasarlanmış yüksek performanslı, güvenli ve platformlar arası görev yönetim çözümü.*
+* **Çapraz Platform Arayüz:** Flutter ile akıcı ve hızlı mobil/masaüstü deneyimi.
+* **Güçlü Backend:** .NET 8 Web API ile güvenli ve ölçeklenebilir servis altyapısı.
+* **Veritabanı Yönetimi:** PostgreSQL ile güvenilir veri saklama.
+* **Güvenli Mimari:** Hassas veritabanı bağlantı bilgileri kaynak kodundan izole edilmiştir.
 
-</div>
+🛠️ **Kullanılan Teknolojiler ve Kütüphaneler**
 
----
+* **Flutter & Dart** (Mobil Arayüz)
+* **.NET 8 & C#** (Backend / API)
+* **PostgreSQL** (Veritabanı)
+* **Entity Framework Core** (ORM)
 
-## 🌟 Özellikler
+⚙️ **Kurulum ve Çalıştırma**
 
-* **⚡ Işık Hızında Arayüz:** Akıcı bir çapraz platform deneyimi için Flutter ile geliştirildi.
-* **🛡️ Güçlü Arka Plan (Backend):** Yüksek ölçeklenebilirlik ve güvenli uç noktalar sunan .NET 8 Web API altyapısı.
-* **🐘 Güvenilir Veritabanı:** Güvenilir ve hızlı veri saklama için PostgreSQL desteği.
-* **🔒 Kurumsal Düzeyde Güvenlik:** Hassas veritabanı kimlik bilgilerini koruyan çevre izoleli yapılandırmalar.
+Projeyi bilgisayarınızda çalıştırmak için sırasıyla şu adımları izleyebilirsiniz:
 
----
-
-## 🛠️ Kullanılan Teknolojiler
-
-| Bileşen | Teknoloji |
-| :--- | :--- |
-| **Ön Yüz (Frontend)** | Flutter, Dart |
-| **Arka Yüz (Backend)** | .NET 8, C#, Entity Framework Core |
-| **Veritabanı** | PostgreSQL |
-| **Sürüm Kontrolü** | Git & GitHub |
-
----
-
-## 🏗️ Proje Mimarisi
-
-```text
-TodoApp/
-├── frontend/       # Flutter mobil/masaüstü istemcisi
-└── backend/        # .NET 8 RESTful Web API ve Veritabanı Katmanı
+1. **Depoyu klonlayın:**
+   ```bash
+   git clone [https://github.com/mirayyozcann/TodoApp.git](https://github.com/mirayyozcann/TodoApp.git)
