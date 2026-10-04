@@ -1,7 +1,7 @@
 <div align="center">
 
-# 🚀 Full-Stack To-Do & Task Management Ecosystem
-### Modern, Secure, Scalable, Dual-Language (TR/EN) & Analytics-Powered Platform
+# 🚀 Full-Stack To-Do & Görev Yönetim Ekosistemi
+### Modern, Güvenli, Ölçeklenebilir, Çift Dil (TR/EN) ve İstatistik Destekli Platform
 
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter" />
@@ -11,38 +11,38 @@
   <img src="https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge" alt="License" />
 </p>
 
-*A next-generation full-stack application designed to optimize daily workflows, manage tasks efficiently with built-in Turkish/English support, track productivity analytics, and deliver daily motivation on launch.*
+*Günlük iş akışınızı optimize etmek, yerleşik Türkçe/İngilizce desteği ile görevleri verimli bir şekilde yönetmek, üretkenlik istatistiklerini takip etmek ve uygulama her açıldığında günlük motivasyon almak için tasarlanmış yeni nesil full-stack uygulama.*
 
 </div>
 
 ---
 
-## 🌟 Key Features
+## 🌟 Öne Çıkan Özellikler
 
-* **⚡ Fluid & Modern UI:** Built with Flutter for a smooth, high-performance cross-platform user experience.
-* **🇹🇷/🇬🇧 Dual-Language Support (TR/EN):** Fully localized interface allowing users to seamlessly switch between Turkish and English.
-* **📊 Advanced Analytics Panel:** A dedicated statistics module that visualizes completed, pending, and overall task metrics to track productivity.
-* **💡 Dynamic Motivation System:** A delightful UX feature that greets users with inspirational quotes matching their selected language every time the app opens.
-* **🛡️️ Robust Backend:** High-performance and secure RESTful APIs powered by .NET 8 Web API.
-* **🐘 Reliable Data Storage:** Efficient relational data management using PostgreSQL and DataGrip.
-* **🔒 Environment Security:** Sensitive database connection strings and credentials are completely isolated from source code.
+* **⚡ Akıcı ve Modern Arayüz:** Akıcı, yüksek performanslı ve çapraz platform bir kullanıcı deneyimi için Flutter ile geliştirilmiştir.
+* **🇹🇷/🇬🇧 Çift Dil Desteği (TR/EN):** Kullanıcıların Türkçe ve İngilizce arasında sorunsuz geçiş yapmasını sağlayan tam lokalize arayüz.
+* **📊 Gelişmiş İstatistik Paneli:** Üretkenliği takip etmek için tamamlanan, bekleyen ve genel görev metriklerini görselleştiren özel bir istatistik modülü.
+* **💡 Dinamik Motivasyon Sistemi:** Kullanıcıları uygulama her açıldığında seçtikleri dile uygun ilham verici sözlerle karşılayan keyifli bir UX özelliği.
+* **🛡️ Güçlü Backend:** .NET 8 Web API tarafından desteklenen yüksek performanslı ve güvenli RESTful servisler.
+* **🐘 Güvenilir Veri Saklama:** PostgreSQL ve DataGrip kullanılarak gerçekleştirilen verimli ilişkisel veri yönetimi.
+* **🔒 Çevre Güvenliği:** Hassas veritabanı bağlantı dizeleri ve kimlik bilgileri kaynak kodundan tamamen izole edilmiştir.
 
 ---
 
-## 🛠️ Tech Stack & Architecture
+## 🛠️ Teknoloji Yığını ve Mimari
 
-| Layer | Technology / Tool | Purpose |
+| Katman | Teknoloji / Araç | Amaç |
 | :--- | :--- | :--- |
-| **Frontend** | Flutter & Dart | Cross-platform client application, localization, analytics screens, and motivation flow |
-| **Backend** | .NET 8, C#, Entity Framework Core | RESTful API services, data processing & Business Logic |
-| **Database & Tool** | PostgreSQL & DataGrip | Relational database management & query optimization |
-| **Version Control** | Git & GitHub | Source code management and repository hosting |
+| **Frontend** | Flutter & Dart | Çapraz platform istemci uygulaması, lokalizasyon, istatistik ekranları ve motivasyon akışı |
+| **Backend** | .NET 8, C#, Entity Framework Core | RESTful API servisleri, veri işleme ve iş mantığı (Business Logic) |
+| **Veritabanı & Araç** | PostgreSQL & DataGrip | İlişkisel veritabanı yönetimi ve sorgu optimizasyonu |
+| **Sürüm Kontrolü** | Git & GitHub | Kaynak kodu yönetimi ve depo barındırma |
 
 ---
 
-## 🏗️ Project Architecture
+## 🏗️ Proje Mimarisi
 
 ```text
 TodoApp/
-├── frontend/       # Flutter client codes (UI, TR/EN localization files, analytics module, motivation service, state management)
-└── backend/        # .NET 8 Web API, layered architecture & database connections
+├── frontend/       # Flutter istemci kodları (Arayüz, TR/EN lokalizasyon dosyaları, istatistik modülü, motivasyon servisi, durum yönetimi)
+└── backend/        # .NET 8 Web API, katmanlı mimari ve veritabanı bağlamları
