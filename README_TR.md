@@ -3,9 +3,10 @@
 <div align="center">
 
 # 🚀 Full-Stack Yapılacaklar & Görev Yönetim Ekosistemi
+
 ### Modern, Güvenli, Ölçeklenebilir, İki Dilli (TR/EN) ve İstatistik Destekli Platform
 
-**[🇹🇷 Türkçe](README.md) | [🇬🇧 English](README_EN.md)**
+**🇹🇷 Türkçe | [🇬🇧 English](README.md)**
 
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter" />
@@ -23,14 +24,14 @@
 
 ## 🌟 Temel Özellikler
 
-* **⚡ Akıcı ve Modern Arayüz:** Flutter ile geliştirilmiş, akıcı, yüksek performanslı ve platformlar arası kullanıcı deneyimi.
-* **🇹🇷/🇬🇧 İki Dilli Destek (TR/EN):** Kullanıcıların uygulama içerisinden Türkçe ve İngilizce dilleri arasında kolayca geçiş yapabilmesini sağlayan yerelleştirilmiş arayüz.
-* **📊 Gelişmiş İstatistik Paneli:** Tamamlanan, bekleyen ve toplam görev metriklerini görselleştirerek üretkenliği takip etmeyi sağlayan istatistik modülü.
-* **💡 Dinamik Motivasyon Sistemi:** Uygulama her açıldığında, seçilen dile uygun ilham verici sözlerle kullanıcıyı karşılayan motivasyon sistemi.
-* **🎨 UI/UX Tasarımı ve Modellemesi:** Ön yüz arayüzü ve kullanıcı akışları, geliştirme öncesinde modern ve kullanıcı odaklı bir deneyim oluşturmak amacıyla **Google Stitch** kullanılarak tasarlandı.
-* **🛡️ Güçlü Backend:** .NET 8 Web API ile desteklenen güvenli ve yüksek performanslı RESTful servisler.
-* **🐘 Güvenilir Veri Depolama:** PostgreSQL ve DataGrip kullanılarak verimli ilişkisel veri yönetimi.
-* **🔒 Ortam Güvenliği:** Hassas veritabanı bağlantı dizeleri ve kimlik bilgileri kaynak kodundan ayrı tutularak güvenlik sağlanır.
+- **⚡ Akıcı ve Modern Arayüz:** Flutter ile geliştirilmiş, akıcı, yüksek performanslı ve platformlar arası kullanıcı deneyimi.
+- **🇹🇷/🇬🇧 İki Dilli Destek (TR/EN):** Kullanıcıların uygulama içerisinden Türkçe ve İngilizce dilleri arasında kolayca geçiş yapabilmesini sağlayan yerelleştirilmiş arayüz.
+- **📊 Gelişmiş İstatistik Paneli:** Tamamlanan, bekleyen ve toplam görev metriklerini görselleştirerek üretkenliği takip etmeyi sağlayan istatistik modülü.
+- **💡 Dinamik Motivasyon Sistemi:** Uygulama her açıldığında, seçilen dile uygun ilham verici sözlerle kullanıcıyı karşılayan motivasyon sistemi.
+- **🎨 UI/UX Tasarımı ve Modellemesi:** Ön yüz arayüzü ve kullanıcı akışları, geliştirme öncesinde modern ve kullanıcı odaklı bir deneyim oluşturmak amacıyla **Google Stitch** kullanılarak tasarlandı.
+- **🛡️ Güçlü Backend:** .NET 8 Web API ile desteklenen güvenli ve yüksek performanslı RESTful servisler.
+- **🐘 Güvenilir Veri Depolama:** PostgreSQL ve DataGrip kullanılarak verimli ilişkisel veri yönetimi.
+- **🔒 Ortam Güvenliği:** Hassas veritabanı bağlantı dizeleri ve kimlik bilgileri kaynak kodundan ayrı tutularak güvenlik sağlanır.
 
 ---
 
