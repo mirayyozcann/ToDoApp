@@ -1,7 +1,15 @@
+
+
 <div align="center">
 
 # 🚀 Full-Stack To-Do & Task Management Ecosystem
+
 ### Modern, Secure, Scalable, Dual-Language (TR/EN) and Statistics-Powered Platform
+
+<p align="center">
+  <a href="README_TR.md">🇹🇷 Türkçe</a> |
+  <a href="README.md">🇬🇧 English</a>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter" />
@@ -11,7 +19,7 @@
   <img src="https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge" alt="License" />
 </p>
 
-*A next-generation full-stack application designed to optimize your daily workflow, efficiently manage tasks with built-in Turkish/English support, track productivity statistics, and receive daily motivation every time the app opens.*
+* A next-generation full-stack application designed to optimize your daily workflow, efficiently manage tasks with built-in Turkish/English support, track productivity statistics, and receive daily motivation every time the app opens.
 
 </div>
 
@@ -50,3 +58,5 @@ TodoApp/
 │
 └── backend/   # .NET 8 Web API, layered architecture, and database contexts
     └── Run: cd backend && dotnet ef database update && dotnet run
+```
+
